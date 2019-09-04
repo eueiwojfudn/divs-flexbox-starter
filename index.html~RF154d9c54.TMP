@@ -23,13 +23,13 @@
 
         <section class="wrapper">
             <div class="div-1">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut.</p>
+                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Odio morbi quis commodo odio aenean. Egestas erat imperdiet sed euismod nisi porta. Amet consectetur adipiscing elit ut aliquam purus sit. Eget dolor morbi non arcu risus quis varius. Commodo quis imperdiet massa tincidunt nunc pulvinar. Sollicitudin ac orci phasellus egestas tellus. Non arcu risus quis varius quam quisque id diam. Mi proin sed libero enim sed. Pharetra massa massa ultricies mi quis hendrerit.</p>
             </div>
             <div class="div-2">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut.</p>
+                Div 2
             </div>
             <div class="div-3">
-                <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut.</p>
+                Div 3
             </div>
         </section>
 
